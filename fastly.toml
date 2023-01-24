@@ -6,6 +6,7 @@ description = "A basic starter kit for Fastly's Compute@Edge with Optimizely bui
 language = "javascript"
 manifest_version = 2
 name = "Optimizely Full Stack"
+service_id = "H8qa3OQZGO6hYX9sfXkCZ5"
 
 [setup.backends]
   
